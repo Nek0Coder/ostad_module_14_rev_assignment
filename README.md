@@ -1,4 +1,5 @@
 # ostad_module_14_rev_assignment
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Flutter app assignment of module 10 (Ostad Flutter Dev Course)
+>>>>>>> 744ae2e87cf14568debfe36c1ecd7370b5ca78f3
